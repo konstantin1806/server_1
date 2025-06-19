@@ -20,8 +20,8 @@
 #
 
 upstream balanced {
-	server 192.168.4.104:8081;
-	server 192.168.4.110:8082;
+	server 192.168.4.86:8081;
+	server 192.168.4.21:8082;
 }
 
 server {
